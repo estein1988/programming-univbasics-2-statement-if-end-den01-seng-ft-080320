@@ -1,4 +1,5 @@
 # Write your solution here
 
 current_time = Time.now
-current_time.to_i
+integer = current_time.to_i
+p integer
